@@ -151,3 +151,12 @@ footer {
 
     margin: 3rem;
 }
+
+li a {
+    color: var(--cinza-secundario);
+    text-decoration: none;
+}
+
+li a:hover {
+    color: var(--botao-azul);
+}
