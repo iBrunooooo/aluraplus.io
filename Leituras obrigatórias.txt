@@ -1,0 +1,16 @@
+O que é o HTML e suas tags? Parte 1: estrutura básica: 
+https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?utm_source=gnarus&utm_medium=timeline
+
+O que é o HTML e suas tags? Parte 2: elementos inline: 
+https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-2-elementos-inline?utm_source=gnarus&utm_medium=timeline
+
+O que é o HTML e suas tags? Parte 3: elementos block-level: 
+https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=gnarus&utm_medium=timeline
+
+O que é o HTML e suas tags? Parte 4: elementos de um formulário: 
+https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-4-elementos-formulario
+
+O que é o HTML e suas tags? Parte 5: atributos dos elementos: 
+https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos
+
+Pare de chutar e aprenda como funciona o display: inline-block: https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4
